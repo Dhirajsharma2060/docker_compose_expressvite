@@ -348,7 +348,7 @@ copies or substantial portions of the Software.
 ## 👤 Author
 
 **Dhiraj**
-- GitHub: [@dhiraj2060](https://github.com/dhiraj2060)
+- GitHub: [@dhiraj2060](https://github.com/Dhirajsharma2060)
 - LinkedIn: [linkedin](https://www.linkedin.com/in/dhirajsharma2060/)
 
 ## 🙏 Acknowledgments
@@ -362,6 +362,6 @@ copies or substantial portions of the Software.
 ---
 
 <div align="center">
-  <p>Made with ❤️ by <a href="https://github.com/dhiraj2060">Dhiraj</a></p>
+  <p>Made with ❤️ by <a href="https://github.com/Dhirajsharma2060">Dhiraj</a></p>
   <p>⭐ Star this repo if you find it helpful!</p>
 </div>
