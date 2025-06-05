@@ -1,0 +1,35 @@
+# Production environment files
+.env.production
+docker-compose.prod.yml
+docker-compose.override.yml
+
+# Database data (if you want to exclude persistent data)
+# pgdata/
+
+# Docker volumes
+volumes/
+
+# Kubernetes configs (if you use them later)
+k8s/secrets/
+*.yaml.secret
+
+# CI/CD
+.github/workflows/*.yml
+!.github/workflows/ci.yml
+
+# Monitoring and logs
+logs/
+monitoring/
+
+# Backup files
+*.backup
+*.dump
+*.sql
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
